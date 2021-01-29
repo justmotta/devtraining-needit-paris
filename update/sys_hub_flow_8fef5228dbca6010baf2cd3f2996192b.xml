@@ -11,7 +11,7 @@
         <copied_from_name/>
         <description>Close records that are still opened after more than a week.</description>
         <internal_name>needit_weekly_updater</internal_name>
-        <label_cache>[{"name":"592b5b31-adf6-461b-a115-3ca47bd8bd8a.message","label":"1➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"eae4ca7a-5ba6-465c-b7bd-6ba1cf184947"}},{"name":"592b5b31-adf6-461b-a115-3ca47bd8bd8a.status","label":"1➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"828e2127-df28-4eda-af48-ee4e876cca1e"}},{"name":"592b5b31-adf6-461b-a115-3ca47bd8bd8a.count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"edb3c082-a356-4943-a263-55232fc02390"}},{"name":"26a75841-f477-4c4f-9dd1-2c1b3f78195b.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"26a75841-f477-4c4f-9dd1-2c1b3f78195b.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"b80f3ec2-a10c-4fbf-8ac4-bd93b16dc3e2.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"b80f3ec2-a10c-4fbf-8ac4-bd93b16dc3e2.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"74f675bb-6e32-477a-a3aa-4bca867e2dbe.count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"edb3c082-a356-4943-a263-55232fc02390"}},{"name":"74f675bb-6e32-477a-a3aa-4bca867e2dbe.status","label":"1➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"828e2127-df28-4eda-af48-ee4e876cca1e"}},{"name":"74f675bb-6e32-477a-a3aa-4bca867e2dbe.message","label":"1➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"eae4ca7a-5ba6-465c-b7bd-6ba1cf184947"}}]</label_cache>
+        <label_cache>[{"name":"74f675bb-6e32-477a-a3aa-4bca867e2dbe.message","label":"1➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"eae4ca7a-5ba6-465c-b7bd-6ba1cf184947"}},{"name":"74f675bb-6e32-477a-a3aa-4bca867e2dbe.status","label":"1➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"828e2127-df28-4eda-af48-ee4e876cca1e"}},{"name":"74f675bb-6e32-477a-a3aa-4bca867e2dbe.count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"edb3c082-a356-4943-a263-55232fc02390"}},{"name":"b80f3ec2-a10c-4fbf-8ac4-bd93b16dc3e2.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"b80f3ec2-a10c-4fbf-8ac4-bd93b16dc3e2.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"26a75841-f477-4c4f-9dd1-2c1b3f78195b.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"26a75841-f477-4c4f-9dd1-2c1b3f78195b.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"592b5b31-adf6-461b-a115-3ca47bd8bd8a.count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"edb3c082-a356-4943-a263-55232fc02390"}},{"name":"592b5b31-adf6-461b-a115-3ca47bd8bd8a.status","label":"1➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"828e2127-df28-4eda-af48-ee4e876cca1e"}},{"name":"592b5b31-adf6-461b-a115-3ca47bd8bd8a.message","label":"1➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"eae4ca7a-5ba6-465c-b7bd-6ba1cf184947"}}]</label_cache>
         <latest_snapshot/>
         <master_snapshot/>
         <name>NeedIt Weekly Updater</name>
@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8fef5228dbca6010baf2cd3f2996192b</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>NeedIt Weekly Updater</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_hub_flow_8fef5228dbca6010baf2cd3f2996192b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:56:17</sys_updated_on>
+        <sys_updated_on>2021-01-28 15:16:32</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=8fef5228dbca6010baf2cd3f2996192b"/>
@@ -58,10 +58,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-28 14:47:36</sys_created_on>
         <sys_id>f9c5e22cdbca6010baf2cd3f2996193a</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:56:17</sys_updated_on>
+        <sys_updated_on>2021-01-28 15:16:32</sys_updated_on>
         <ui_id>592b5b31-adf6-461b-a115-3ca47bd8bd8a</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f9c5e22cdbca6010baf2cd3f2996193a"/>
@@ -87,10 +87,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-28 14:47:36</sys_created_on>
         <sys_id>3dc5e22cdbca6010baf2cd3f2996193d</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:56:17</sys_updated_on>
-        <value>opened_at&lt;=javascript:gs.beginningOfLast7Days()</value>
+        <sys_updated_on>2021-01-28 15:16:32</sys_updated_on>
+        <value>opened_at&lt;=javascript:gs.beginningOfLast7Days()^state!=3</value>
         <variable display_value="">d9af2a72c75100105312134c95c2607a</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -117,10 +117,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-28 14:33:49</sys_created_on>
         <sys_id>88a2a268dbca6010baf2cd3f2996196c</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:56:17</sys_updated_on>
+        <sys_updated_on>2021-01-28 15:16:32</sys_updated_on>
         <trigger_definition display_value="Weekly">cf352104c32222002841b63b12d3ae1f</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -182,10 +182,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-28 14:47:36</sys_created_on>
         <sys_id>f9c5e22cdbca6010baf2cd3f2996193a</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:56:17</sys_updated_on>
+        <sys_updated_on>2021-01-28 15:16:32</sys_updated_on>
         <ui_id>592b5b31-adf6-461b-a115-3ca47bd8bd8a</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f9c5e22cdbca6010baf2cd3f2996193a"/>
@@ -211,10 +211,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-28 14:47:36</sys_created_on>
         <sys_id>3dc5e22cdbca6010baf2cd3f2996193d</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:56:17</sys_updated_on>
-        <value>opened_at&lt;=javascript:gs.beginningOfLast7Days()</value>
+        <sys_updated_on>2021-01-28 15:16:32</sys_updated_on>
+        <value>opened_at&lt;=javascript:gs.beginningOfLast7Days()^state!=3</value>
         <variable display_value="">d9af2a72c75100105312134c95c2607a</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
